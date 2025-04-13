@@ -58,7 +58,7 @@ function Navbar() {
         >
           <div className="flex justify-between items-center p-4 border-b">
             <div className="text-2xl font-semibold">
-              <a href="/">Ali Hassan</a>
+              <a href="/">Muhammad Sharjeel</a>
             </div>
             <button onClick={toggleMenu} className="text-2xl">
               <i className="ri-close-line p-2 rounded-md bg-purple-600"></i>
